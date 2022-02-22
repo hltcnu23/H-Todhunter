@@ -2,9 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
-Using Oxygen
+title: Using Oxygen
 # Short bio or description (displayed in the header)
-Learning How to Use TEI
+description: Learning How to Use TEI
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
